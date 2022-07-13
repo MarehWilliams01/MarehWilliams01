@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mareh Williams</h1>
 <h3 align="center">A frontend developer and AI enthusiast from Ghana</h3>
 
-<img align="right" alt="coding" width="500" height="350" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marehwilliams01&label=Profile%20views&color=0e75b6&style=flat" alt="marehwilliams01" /> </p>
 
