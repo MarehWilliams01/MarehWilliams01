@@ -1,4 +1,5 @@
-<img align="center" alt="female coding" height="600" width="1000" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
+<img align="center" alt="female coding" height="800" width="1000" src=
+     "https://cdn-icons-png.flaticon.com/512/554/554857.png?w=740&t=st=1682111413~exp=1682112013~hmac=2154689d96f38429ae6c4dd34fc4fc4ba001ca93434bbe859d90bc66229ed5eb">
 
 <h1 align="center">Hi 👋, I'm Mareh Williams</h1>
 <h3 align="center">A frontend developer and AI enthusiast from Ghana</h3>
